@@ -46,6 +46,7 @@ What follows is the guidance for developers on this team regarding usage.
 
 * Add your stories to the `stories` folder or append stories to the `index.stories.tsx` file
 * Execute `yarn storybook` to see your components hosted in `storybook`
+* Rename the `_storybook` folder to `.storybook` (Github won't upload "hidden" folders)
 * Avoid altering the files in the `.storybook` folder
 
 ### `Using the library in the client application`
