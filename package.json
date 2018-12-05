@@ -2,6 +2,7 @@
   "name": "lib-template",
   "version": "1.0.0",
   "main": "dist/index.js",
+  "types": "dist/src/index.d.ts",
   "license": "MIT",
   "scripts": {
     "package": "yarn clean && webpack && yarn pack",
